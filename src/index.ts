@@ -2,4 +2,4 @@
 export * from './directives/proxies';
 
 // PACKAGE MODULE
-export { ComponentLibraryModule } from './component-library-module';
+export { D2WcLibModule } from './d2-wc-lib-module';

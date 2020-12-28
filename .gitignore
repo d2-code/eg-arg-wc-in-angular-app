@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+/build
+/dist
+/__ivy_ngcc__
+.DS_Store
